@@ -1,0 +1,28 @@
+*PADS-ECO-V3.0-MILS*
+
+*REMARK* -- koguryo_mouse_fix_last.pcb -- Wed Sep 06 01:04:56 2006
+
+
+*DELPIN*
+R41.1    $$$9313
+Q7.1    $$$9313
+R41.2    GND
+
+*NET*
+*SIGNAL* GND 8
+C12.1 Q7.1
+
+*DELPIN*
+U6.2    $$$9288
+Q7.3    $$$9288
+
+*NET*
+*SIGNAL* $$$1 8
+R41.2 U6.2
+*SIGNAL* $$$2 8
+Q7.3 R41.1
+
+*RENNET*
+$$$1 $$$10691
+$$$2 $$$10683
+*END*

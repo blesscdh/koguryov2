@@ -1,0 +1,33 @@
+-------------------------  koguryo_mouse.pjt - Debug  -------------------------
+"C:\Program Files\C2000 Code Generation Tools 5.1.1\bin\cl2000" -ss -pm -op0 -o3 -fr"J:/data/maze_project/koguryov2/cs_prj/Debug" -i"../include" -d"_DEBUG" -d"LARGE_MODEL" -mf -ml -v28 -@"../cs_prj/Debug.lkf"
+[algo.c]
+[DSP280x_Adc.c]
+[DSP280x_CpuTimers.c]
+[DSP280x_DefaultIsr.c]
+[DSP280x_EPwm.c]
+[DSP280x_EQep.c]
+[DSP280x_GlobalVariableDefs.c]
+[DSP280x_Gpio.c]
+[DSP280x_MemCopy.c]
+[DSP280x_PieCtrl.c]
+[DSP280x_PieVect.c]
+[DSP280x_Sci.c]
+[DSP280x_Spi.c]
+[DSP280x_SysCtrl.c]
+[main.c]
+[menu.c]
+[motor.c]
+[sensor.c]
+[VFD.c]
+<Optimizing>
+<Generating>
+<Interlisting>
+<Assembling>
+[DSP280x_CodeStartBranch.asm]
+[DSP280x_usDelay.asm]
+
+[Linking...] "C:\Program Files\C2000 Code Generation Tools 5.1.1\bin\cl2000" -@"Debug.lkf"
+<Linking>
+
+Build Complete,
+  0 Errors, 0 Warnings, 0 Remarks.
