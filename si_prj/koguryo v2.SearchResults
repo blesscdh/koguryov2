@@ -1,0 +1,14 @@
+---- gBlockToBlock Matches (13 in 4 files) ----
+Algo.c (j:\data\maze_project\koguryov2\algo):	gBlockToBlock = 0;
+Menu.c (j:\data\maze_project\koguryov2\menu):	gBlockToBlock = OFF;
+Menu.c (j:\data\maze_project\koguryov2\menu):	gBlockToBlock = OFF;
+Motor.c (j:\data\maze_project\koguryov2\motor):	gBlockToBlock = TURN2STRT;
+Motor.c (j:\data\maze_project\koguryov2\motor):	if(gBlockToBlock != TURN2TURN)
+Motor.c (j:\data\maze_project\koguryov2\motor):			gBlockToBlock = TURN2STRT;
+Motor.c (j:\data\maze_project\koguryov2\motor):			gBlockToBlock = TURN2TURN;
+Motor.c (j:\data\maze_project\koguryov2\motor):			gBlockToBlock = TURN2BTURN;
+Motor.c (j:\data\maze_project\koguryov2\motor):			gBlockToBlock = 0xff;
+Motor.c (j:\data\maze_project\koguryov2\motor):			gBlockToBlock = TURN2STRT;
+Motor.c (j:\data\maze_project\koguryov2\motor):			gBlockToBlock = TURN2TURN;
+Motor.c (j:\data\maze_project\koguryov2\motor):			gBlockToBlock = TURN2BTURN;
+Val.h (j:\data\maze_project\koguryov2\include):									,gBlockToBlock
