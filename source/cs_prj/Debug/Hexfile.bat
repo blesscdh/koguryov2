@@ -1,0 +1,1 @@
+hex2000 koguryo_mouse.out -o koguryo_mouse.hex -map koguryo_mouse_.map -i -datawidth 16 -memwidth 16 -romwidth 16 
