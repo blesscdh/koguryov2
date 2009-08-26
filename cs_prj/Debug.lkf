@@ -1,6 +1,0 @@
--z -c -e_c_int00 -farheap0x700 -heap0x1 -m"./Debug/koguryo_mouse.map" -o"./Debug/koguryo_mouse.out" -stack0x600 -w -x -i"C:/CCStudio_v3.3/C2000/xdais/lib" -i"C:/CCStudio_v3.3/bios_5_31_02/packages/ti/bios/lib" -i"C:/CCStudio_v3.3/bios_5_31_02/packages/ti/rtdx/lib/c2000" -i"C:/Program Files/C2000 Code Generation Tools 5.1.1/lib" -l"rts2800_ml.lib" -l"IQmath.lib"
-"J:\data\maze_project\koguryov2\cs_prj\Debug\algo.obj"
-"J:\data\maze_project\koguryov2\cs_prj\Debug\DSP280x_CodeStartBranch.obj"
-"J:\data\maze_project\koguryov2\cs_prj\Debug\DSP280x_usDelay.obj"
-"J:\data\maze_project\koguryov2\main\DSP280x_Headers_nonBIOS.cmd"
-"J:\data\maze_project\koguryov2\main\F2808.cmd"
