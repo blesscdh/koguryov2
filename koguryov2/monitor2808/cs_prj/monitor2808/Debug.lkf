@@ -1,0 +1,6 @@
+-z -c -ecode_start -farheap0x300 -heap0x01 -m"./Debug/monitor2808.map" -o"./Debug/monitor2808.out" -stack0x300 -w -x -i"C:/CCStudio_v3.1/C2000/cgtools/lib" -i"C:/CCStudio_v3.1/C2000/xdais/lib" -i"C:/CCStudio_v3.1/C2000/rtdx/lib" -i"C:/CCStudio_v3.1/c2000/bios/lib" -i"C:/Program Files/C2000 Code Generation Tools 4.1.3/lib" -l"rts2800_ml.lib" -l"Flash2808_API_V302.lib"
+"E:\monitor2808\main\DSP280x_Headers_nonBIOS.cmd"
+"E:\monitor2808\main\F2808.cmd"
+"E:\monitor2808\cs_prj\monitor2808\Debug\DSP280x_CodeStartBranch.obj"
+"E:\monitor2808\cs_prj\monitor2808\Debug\DSP280x_usDelay.obj"
+"E:\monitor2808\cs_prj\monitor2808\Debug\flash.obj"
