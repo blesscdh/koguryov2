@@ -1,0 +1,3 @@
+---- RamfuncsLoadStart1 Matches (2 in 2 files) ----
+DSP280x_GlobalPrototypes.h (e:\project\tms320f280x\test_board\monitor2808\include):extern Uint16 RamfuncsLoadStart1;
+Main.c (e:\project\tms320f280x\test_board\monitor2808\main):	MemCopy(&RamfuncsLoadStart1, &RamfuncsLoadEnd1, &RamfuncsRunStart1);
